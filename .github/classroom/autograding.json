@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Testar programa1.py",
+      "setup": "",
+      "run": "python programa1.py",
+      "input": "",
+      "output": "Hello World!",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Testar programa2.py",
+      "setup": "",
+      "run": "python programa2.py",
+      "input": "Pedro\r\nAna\r\nantónio\r\nJOSÉ\r\n123",
+      "output": "Bom dia Pedro.\rBom dia Ana.\rBom dia antónio.\rBom dia JOSÉ.\rBom dia 123.\r",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    }
+  ]
+}
