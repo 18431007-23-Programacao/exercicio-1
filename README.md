@@ -4,7 +4,7 @@
 
 2. Crie um programa que peça ao utilizador o seu nome, e apresente como saida a mensagem "Bom dia" seguido do nome inserido, como no exemplo abaixo. Grave o seu programa com o nome **`programa2.py`**.
 
-```
-Qual o seu nome? Pedro
-Bom dia Pedro.
-```
+    ```
+    Qual o seu nome? Pedro
+    Bom dia Pedro.
+    ```
